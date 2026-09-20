@@ -5,10 +5,10 @@
 
 | | لینک |
 |---|------|
-| پشتیبانی | [t.me/AGN021G](https://t.me/AGN021G) |
-| گروه | [t.me/AGN021GCHAT](https://t.me/AGN021GCHAT) |
-| کانال | [t.me/AGN021G1388](https://t.me/AGN021G1388) |
-| مخزن | [github.com/agn021g/PANEL-AGN021G](https://github.com/agn021g/PANEL-AGN021G) |
+| پشتیبانی | []() |
+| گروه | [) |
+| کانال | []() |
+| مخزن | []() |
 
 ---
 
